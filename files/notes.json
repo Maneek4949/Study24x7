@@ -1,0 +1,28 @@
+[
+[{"code":"KAS101","sub":"Physics","link":"pdfs/Physics.pdf"},
+{"code":"KAS103","sub":"Mathematics I","link":"pdfs/Maths 1.pdf"},
+{"code":"KEE101","sub":"Basic Electrical Engineering","link":"pdfs/Basic Electrical.pdf"},
+{"code":"KAS203","sub":"Mathematics II","link":"pdfs/Maths-2.pdf"}
+],
+[{"code":"KOE034","sub":"Sensor & Instrumentation","link":"pdfs/sensor.pdf"},
+{"code":"KEC302","sub":"Digital System Design","link":"pdfs/dsd.pdf"},
+{"code":"KEC303","sub":"Network Analysis and Synthesis","link":"pdfs/NAS.pdf"},
+{"code":"KEC402","sub":"Analog Circuits","link":"pdfs/Anlog Circuit.zip"},
+{"code":"KEC401","sub":"Communication Engineering","link":"pdfs/Communication Eng.zip"},
+{"code":"KEC403","sub":"Signal System","link":"pdfs/Signal System.pdf"}],
+
+[{"code":"KEC503","sub":"Digital Signal Processing","link":"pdfs/DSP.pdf"},
+{"code":"KEC502","sub":"Microprocessor & Microcontroller","link":"pdfs/MPMC.pdf"},
+{"code":"KEC058","sub":"Optical Communication","link":"pdfs/Optical comm.pdf"},
+{"code":"KEC01","sub":"Digital Communication","link":"pdfs/Digital Communication.zip"},
+{"code":"KEC602","sub":"Control System","link":"pdfs/cs.pdf"},
+{"code":"KnC602","sub":"Indian Tradition","link":"pdfs/ITCS.zip"}
+],
+
+[{"code":"KHU702","sub":"Project Management & Entrepreneurship","link":"pdfs/Project Management & Entrepreneurship.pdf"},
+{"code":"KEC075","sub":"Information Theory and Coding","link":"/download/kec075.pdf"},
+{"code":"KEC072","sub":"VLSI Design","link":"pdfs/vlsi design.pdf"},
+{"code":"KEC074","sub":"Renewable Energy Resources ","link":"pdfs/Renewable Energy Resource.pdf"},
+{"code":"KEC076","sub":"Wireless and Mobile Communication","link":"pdfs/wireless & mobile communication.pdf"}
+]
+]

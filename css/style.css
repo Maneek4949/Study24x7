@@ -1,0 +1,207 @@
+
+html,body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+/*navbar*/
+#nc{
+    background-color:rgba(216, 216, 216, 0.932);
+    border-radius: 2px;
+    box-shadow: 0 .125rem .25rem rgb(0, 0, 0);
+    }
+.logo{
+    position: absolute;
+    top:10px;
+    left:20px;
+}
+.nav-link{
+    color: rgb(92, 92, 92);
+    text-align: center;
+}
+.navbar-nav{
+    margin-left: auto;
+    margin-bottom: 10px;
+    
+
+}
+.nav-link:hover{
+    color: rgb(32, 32, 32);
+    
+    text-shadow: rgb(255, 255, 255);
+}
+
+
+
+
+
+#main{
+    margin-top: 50px;
+    background-color: rgb(255, 236, 236);
+    padding-bottom: 50px;
+    border-radius:12px;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+
+
+
+#bkg {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 10% 0%;
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+}
+
+#glass {
+  display: block;
+  position: relative;
+  max-width: 800px;
+  background-color: RGBA(255, 255, 255, 0.3);
+  backdrop-filter: blur(5px);
+  margin: auto;
+  border-radius: 12px;
+  padding-bottom: 10px;
+}
+#sign {
+  display: block;
+  position: absolute;
+  margin: auto;
+  width: 100%;
+  bottom: 0px;
+  text-align: center;
+  background-color: RGBA(255, 255, 255, 0.2);
+  backdrop-filter: blur(3px);
+}
+#content {
+  position: absolute;
+  width: 90%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+h1,
+p,
+input {
+  color: white;
+  font-family: Verdana, sans-serif;
+}
+h1 {
+  font-size: 5em;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+#content p {
+  margin-top: 0;
+  font-size: 2em;
+}
+a {
+  text-decoration: none;
+  color: #bae3cc;
+  font-weight: 500;
+}
+
+
+/*contact */
+
+
+.contact-form-wrapper {
+  padding: 100px 0;
+}
+
+.contact-form {
+  padding: 30px 40px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  max-width: 400px;
+}
+
+.contact-form textarea {
+  resize: none;
+}
+
+.contact-form .form-input,
+.form-text-area {
+  background-color: #f0f4f5;
+  height: 50px;
+  padding-left: 16px;
+}
+
+.contact-form .form-text-area {
+  background-color: #f0f4f5;
+  height: auto;
+  padding-left: 16px;
+}
+
+.contact-form .form-control::placeholder {
+  color: #aeb4b9;
+  font-weight: 500;
+  opacity: 1;
+}
+
+.contact-form .form-control:-ms-input-placeholder {
+  color: #aeb4b9;
+  font-weight: 500;
+}
+
+.contact-form .form-control::-ms-input-placeholder {
+  color: #aeb4b9;
+  font-weight: 500;
+}
+
+.contact-form .form-control:focus {
+  border-color: #f33fb0;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.07), 0 0 8px #f33fb0;
+}
+
+.contact-form .title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.contact-form .description {
+  color: #aeb4b9;
+  font-size: 14px;
+  text-align: center;
+}
+
+.contact-form .submit-button-wrapper {
+  text-align: center;
+}
+
+.contact-form .submit-button-wrapper input {
+  border: none;
+  border-radius: 4px;
+  background-color: #f23292;
+  color: white;
+  text-transform: uppercase;
+  padding: 10px 60px;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
+.contact-form .submit-button-wrapper input:hover {
+  background-color: #d30069;
+}
